@@ -1,16 +1,45 @@
-## Hi there 👋
+### 👋 Hello, I'm Mgepahmge!
 
-<!--
-**Mgepahmge/Mgepahmge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at **University of Electronic Science and Technology of China (UESTC)**  
+📍 Based in China  
+💡 Focusing on **GPU Computing, High-Performance Computing & Parallel Programming**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Current Work
+
+- 🚀 GPU-accelerated fluid simulation software kernels
+- 📊 GPU-accelerated SpMV operators research
+- ⚡ High-performance computing solutions with CUDA
+
+---
+
+### 🛠️ Tech Stack
+
+**Primary Languages:** C++ | CUDA | Python
+
+**Focus Areas:**
+- GPU Computing & CUDA Programming
+- High-Performance Computing (HPC)
+- Parallel & Concurrent Programming
+
+---
+
+### 🌟 Featured Projects
+
+#### [CuWeaver](https://github.com/Mgepahmge/CuWeaver)
+CUDA concurrency library that simplifies parallel programming by automating concurrency flow management with C++-style wrappers.
+
+#### [NeuZephyr](https://github.com/Mgepahmge/NeuZephyr)
+Lightweight deep learning library in C++ with CUDA C for efficient GPU-accelerated model training and inference.
+
+---
+
+### 📫 Get In Touch
+
+- 💬 Open to collaborations on GPU computing and HPC projects
+- 📧 Feel free to reach out via GitHub issues
+
+---
+
+_"Making parallel computing simpler and faster"_
