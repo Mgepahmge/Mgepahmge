@@ -24,6 +24,9 @@
 
 ### 🌟 Featured Projects
 
+#### [cuDAO][https://github.com/Mgepahmge/cuDAO]
+Header-only CUDA runtime library for automatic dependency-aware kernel scheduling based on memory access semantics.
+
 #### [CuWeaver](https://github.com/Mgepahmge/CuWeaver)
 CUDA concurrency library that simplifies parallel programming by automating concurrency flow management with C++-style wrappers.
 
