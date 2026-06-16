@@ -34,7 +34,7 @@ CUDA concurrency library that simplifies parallel programming by automating conc
 Lightweight deep learning library in C++ with CUDA C for efficient GPU-accelerated model training and inference.
 
 #### [T-BLAEQ](https://github.com/AnkangXie/BLAEQ_Expansion)
-Code for our paper submitted to VLDB 2026 — **T-BLAEQ: A Tensor-Based Multigrid Index for GPU-Accelerated Multi-dimensional Query Processing**. T-BLAEQ introduces a novel tensor-based multigrid indexing structure that leverages GPU parallelism to significantly accelerate multi-dimensional range and similarity queries, targeting high-throughput analytical workloads in modern database systems.
+Code for our paper submitted to ICDE 2027 — **T-BLAEQ: A Tensor-Based Multigrid Index for GPU-Accelerated Multi-dimensional Query Processing**. T-BLAEQ introduces a novel tensor-based multigrid indexing structure that leverages GPU parallelism to significantly accelerate multi-dimensional range and similarity queries, targeting high-throughput analytical workloads in modern database systems.
 
 ---
 
