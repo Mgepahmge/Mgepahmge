@@ -33,16 +33,11 @@ CUDA concurrency library that simplifies parallel programming by automating conc
 #### [NeuZephyr](https://github.com/Mgepahmge/NeuZephyr)
 Lightweight deep learning library in C++ with CUDA C for efficient GPU-accelerated model training and inference.
 
-#### [T-BLAEQ](https://github.com/AnkangXie/BLAEQ_Expansion)
+#### [T-BLAEQ](https://github.com/Mgepahmge/T-BLAEQ)
 Code for our paper submitted to ICDE 2027 — **T-BLAEQ: A Tensor-Based Multigrid Index for GPU-Accelerated Multi-dimensional Query Processing**. T-BLAEQ introduces a novel tensor-based multigrid indexing structure that leverages GPU parallelism to significantly accelerate multi-dimensional range and similarity queries, targeting high-throughput analytical workloads in modern database systems.
 
 ---
 
 ### 📫 Get In Touch
 - 📧 Email: [mgepahmge@outlook.com](mailto:mgepahmge@outlook.com)
-- 🌐 Website: [mgepahmge.dev](https://mgepahmge.dev)
 - 💬 Open to collaborations on GPU computing, HPC, and database projects
-
----
-
-_"Making parallel computing simpler and faster"_
